@@ -1,0 +1,14 @@
+anyio 
+click 
+colorama 
+fastapi==0.78.0
+greenlet==2.0.2
+gunicorn==20.1.0
+h11 
+idna 
+pydantic 
+sniffio 
+SQLAlchemy==2.0.5.post1
+starlette==0.19.1
+typing_extensions==4.5.0
+uvicorn==0.18.2
